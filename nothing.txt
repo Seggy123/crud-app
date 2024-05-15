@@ -1,0 +1,10 @@
+{"_id":{"$oid":"663257815484fee67807212a"}},
+
+
+{
+    "_id": {"$oid":"663257815484fee67807212a"},
+    "dog_name": "Gus",
+    "dog_type": "Bulldog",
+    "dog_age": "2 months olds"
+}
+
